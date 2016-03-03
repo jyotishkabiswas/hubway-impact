@@ -1,0 +1,22 @@
+/*Filename: potterstyle.css
+WRITTEN BY: Maddie Kim
+DATE: Feb 24, 2016
+PURPOSE: FOR CS110, Assignment 3 - Page Layout with CSS
+*/
+
+
+html {
+	background-color:#89c648;
+}
+
+body {
+    margin: 0
+}
+
+img {
+	width:100%;
+	height:auto;
+    padding:0px 0px 0px 0px;
+	margin:0px 0px;
+    border:none;
+}
